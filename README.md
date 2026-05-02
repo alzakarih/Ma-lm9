@@ -270,9 +270,6 @@ Contributions are welcome! Please read our contributing guidelines before submit
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -282,10 +279,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">
-  Made with ❤️ for Saudi Arabia
-</p>
-
-<p align="center">
-  <sub>Supporting Saudi Vision 2030</sub>
-</p>
